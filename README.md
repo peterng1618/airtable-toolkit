@@ -1,2 +1,2 @@
-# airtable-scripts
-A collection of custom Airtable scripts
+# Airtable Toolkit
+A collection of custom Airtable tools (scripts, formulas, etc.) created by me.
